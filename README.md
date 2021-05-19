@@ -1,6 +1,6 @@
 Showcases (homework assighnment for Data Analytics Boorcamp) a basic understanding of Python Pandas and work with Jupyter Notebooks.
 
-Final report includes each of the following:
+Final report in Jupyter Notebook includes each of the following:
 
 ### Player Count
 
